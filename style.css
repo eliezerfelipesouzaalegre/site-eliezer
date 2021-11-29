@@ -1,0 +1,73 @@
+body {
+    text-transform:uppercase;
+    background: url("imagens/fundo\ de\ tela.webp")  center ;
+    background-attachment:fixed;   
+}
+
+.rodape-de-cima a {
+    color:white;
+    font-family:'Courier New', Courier, monospace;   
+    display:inline-block;
+}
+#menu {
+    border:5px solid rgb(10, 61, 65);
+    border-radius:5px;
+    box-shadow:5px 5px 5px rgba(0, 0, 0, 0.5);
+    background-attachment:fixed;
+    padding:25px;
+    background-color:rgb(10, 61, 65);
+    
+}
+li {
+    display:inline-block;   
+    padding:15px;   
+}
+
+h1 {
+    color:white;
+}
+
+ul {
+    text-align:right;
+    font-size:15px;
+}
+
+#nome {
+    font-size:50px;
+}
+
+#sobre-o-site {
+    border: 5px solid rgb(255, 255, 255);
+    width:600px;
+    margin:300px;
+    padding:20px;
+    background-color:rgb(10, 36, 41);
+    font-family:'Courier New', Courier, monospace;
+}
+
+ a {
+    color:white;   
+}
+
+main {   
+    border: 5px solid rgb(255, 255, 255);
+    width:50px;
+    margin:300px;
+    padding:20px;
+    background-color:rgb(10, 36, 41);
+    font-family:'Courier New', Courier, monospace;
+}
+
+footer {
+    background-color:black;
+    color:white;
+    
+}
+
+blockquote {
+   color:white;
+}
+
+#comentario {
+    width:500px;
+}
